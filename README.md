@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anusha0828/leetcode/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Anusha0828/leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Anusha0828/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
