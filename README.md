@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anusha0828/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Anusha0828/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Anusha0828/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2670-find-the-distinct-difference-array](https://github.com/Anusha0828/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anusha0828/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Anusha0828/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Anusha0828/leetcode/tree/master/0461-hamming-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Anusha0828/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anusha0828/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Divide and Conquer
 |  |
