@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anusha0828/leetcode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Anusha0828/leetcode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anusha0828/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Array
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Anusha0828/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
