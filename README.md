@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anusha0828/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Anusha0828/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Anusha0828/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Anusha0828/leetcode/tree/master/0344-reverse-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anusha0828/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/Anusha0828/leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anusha0828/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Anusha0828/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Anusha0828/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anusha0828/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anusha0828/leetcode/tree/master/0242-valid-anagram) |
