@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anusha0828/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Anusha0828/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anusha0828/leetcode/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/Anusha0828/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anusha0828/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anusha0828/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Anusha0828/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
