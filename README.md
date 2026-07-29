@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anusha0828/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Anusha0828/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Anusha0828/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Anusha0828/leetcode/tree/master/0202-happy-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anusha0828/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Anusha0828/leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Anusha0828/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anusha0828/leetcode/tree/master/0137-single-number-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anusha0828/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha0828/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
