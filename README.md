@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anusha0828/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anusha0828/leetcode/tree/master/0326-power-of-three) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anusha0828/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Anusha0828/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/Anusha0828/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
