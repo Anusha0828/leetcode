@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anusha0828/leetcode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Anusha0828/leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anusha0828/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Number Theory
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anusha0828/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Anusha0828/leetcode/tree/master/1720-decode-xored-array) |
+| [1929-concatenation-of-array](https://github.com/Anusha0828/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anusha0828/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
