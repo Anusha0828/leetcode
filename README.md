@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1720-decode-xored-array](https://github.com/Anusha0828/leetcode/tree/master/1720-decode-xored-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Anusha0828/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
