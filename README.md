@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1470-shuffle-the-array](https://github.com/Anusha0828/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anusha0828/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anusha0828/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Anusha0828/leetcode/tree/master/1720-decode-xored-array) |
