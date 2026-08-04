@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anusha0828/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anusha0828/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anusha0828/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Anusha0828/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anusha0828/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anusha0828/leetcode/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anusha0828/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Anusha0828/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Anusha0828/leetcode/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha0828/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
