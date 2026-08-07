@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha0828/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anusha0828/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Anusha0828/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Anusha0828/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anusha0828/leetcode/tree/master/0796-rotate-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
