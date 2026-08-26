@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Anusha0828/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Anusha0828/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Anusha0828/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Anusha0828/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anusha0828/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha0828/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha0828/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anusha0828/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anusha0828/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Anusha0828/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Anusha0828/leetcode/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha0828/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Queue
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anusha0828/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
