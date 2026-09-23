@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anusha0828/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Anusha0828/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anusha0828/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anusha0828/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Anusha0828/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Anusha0828/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Anusha0828/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Anusha0828/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anusha0828/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anusha0828/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Anusha0828/leetcode/tree/master/0260-single-number-iii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anusha0828/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Anusha0828/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anusha0828/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anusha0828/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha0828/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha0828/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -242,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anusha0828/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anusha0828/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
