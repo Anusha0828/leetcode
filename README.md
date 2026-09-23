@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Anusha0828/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anusha0828/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Anusha0828/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Anusha0828/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anusha0828/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anusha0828/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Anusha0828/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Anusha0828/leetcode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Anusha0828/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Anusha0828/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Queue
 |  |
 | ------- |
