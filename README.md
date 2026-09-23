@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anusha0828/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha0828/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anusha0828/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anusha0828/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anusha0828/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Anusha0828/leetcode/tree/master/1470-shuffle-the-array) |
