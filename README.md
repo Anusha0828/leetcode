@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anusha0828/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Anusha0828/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Anusha0828/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2325-decode-the-message](https://github.com/Anusha0828/leetcode/tree/master/2325-decode-the-message) |
 | [2670-find-the-distinct-difference-array](https://github.com/Anusha0828/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Anusha0828/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anusha0828/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Anusha0828/leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Anusha0828/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anusha0828/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2325-decode-the-message](https://github.com/Anusha0828/leetcode/tree/master/2325-decode-the-message) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
