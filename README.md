@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anusha0828/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anusha0828/leetcode/tree/master/0412-fizz-buzz) |
+| [0789-escape-the-ghosts](https://github.com/Anusha0828/leetcode/tree/master/0789-escape-the-ghosts) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Anusha0828/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Anusha0828/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anusha0828/leetcode/tree/master/0724-find-pivot-index) |
+| [0789-escape-the-ghosts](https://github.com/Anusha0828/leetcode/tree/master/0789-escape-the-ghosts) |
 | [0904-fruit-into-baskets](https://github.com/Anusha0828/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anusha0828/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
