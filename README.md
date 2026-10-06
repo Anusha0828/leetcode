@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anusha0828/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Anusha0828/leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anusha0828/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0789-escape-the-ghosts](https://github.com/Anusha0828/leetcode/tree/master/0789-escape-the-ghosts) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Anusha0828/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Anusha0828/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Anusha0828/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anusha0828/leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anusha0828/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Anusha0828/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Anusha0828/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Anusha0828/leetcode/tree/master/0643-maximum-average-subarray-i) |
