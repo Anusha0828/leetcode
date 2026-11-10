@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Anusha0828/leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anusha0828/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0789-escape-the-ghosts](https://github.com/Anusha0828/leetcode/tree/master/0789-escape-the-ghosts) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anusha0828/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anusha0828/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Anusha0828/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
