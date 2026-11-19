@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Anusha0828/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Anusha0828/leetcode/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/Anusha0828/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/Anusha0828/leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Anusha0828/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Anusha0828/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anusha0828/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Anusha0828/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Anusha0828/leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Anusha0828/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1816-truncate-sentence](https://github.com/Anusha0828/leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anusha0828/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2325-decode-the-message](https://github.com/Anusha0828/leetcode/tree/master/2325-decode-the-message) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anusha0828/leetcode/tree/master/2785-sort-vowels-in-a-string) |
